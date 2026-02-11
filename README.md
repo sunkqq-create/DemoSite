@@ -1,2 +1,2 @@
 # DemoSite
-A demo for a website.
+This is a demo for a pricing website.
